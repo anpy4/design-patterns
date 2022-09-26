@@ -1,0 +1,6 @@
+.pytest_cache/
+.venv/
+build/
+design_patterns.egg-info/
+patterns.egg-info/
+.idea/
