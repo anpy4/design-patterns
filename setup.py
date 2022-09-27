@@ -7,6 +7,5 @@ setup(
    author='André Schiefer',
    author_email='cgndre@yahoo.com',
    packages=find_packages(),
-   requires=['pillow'],
    tests_requires=['pytest']
 )
